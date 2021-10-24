@@ -11,7 +11,7 @@
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\beamer@sectionpages {3}{4}}
 \headcommand {\beamer@subsectionpages {3}{4}}
-\headcommand {\sectionentry {2}{Trinomial tree according to Hull and White}{5}{Trinomial tree according to Hull and White}{0}}
+\headcommand {\sectionentry {2}{Trinomial tree according to Hull}{5}{Trinomial tree according to Hull}{0}}
 \headcommand {\slideentry {2}{0}{1}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
 \headcommand {\slideentry {2}{0}{2}{6/6}{}{0}}
@@ -25,28 +25,23 @@
 \headcommand {\beamer@framepages {8}{8}}
 \headcommand {\beamer@subsectionpages {8}{8}}
 \headcommand {\beamer@subsectionentry {0}{3}{1}{9}{Calculation of the probabilities}}
-\headcommand {\beamer@sectionpages {8}{8}}
-\headcommand {\beamer@subsectionpages {9}{8}}
-\headcommand {\sectionentry {4}{Trinomial tree according to Hull and White}{9}{Trinomial tree according to Hull and White}{0}}
-\headcommand {\slideentry {4}{0}{1}{9/9}{}{0}}
+\headcommand {\slideentry {3}{1}{1}{9/9}{Calculation of the probabilities}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {4}{0}{2}{10/10}{}{0}}
+\headcommand {\slideentry {3}{1}{2}{10/10}{Calculation of the probabilities}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {4}{0}{3}{11/11}{}{0}}
+\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{11}{Perfect fit of the term structure}}
+\headcommand {\slideentry {3}{2}{1}{11/11}{Perfect fit of the term structure}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@subsectionpages {9}{11}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{12}{Fitting the term structure}}
-\headcommand {\slideentry {4}{1}{1}{12/12}{Fitting the term structure}{0}}
+\headcommand {\beamer@sectionpages {8}{11}}
+\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\sectionentry {4}{Coding - Have Fun}{12}{Coding - Have Fun}{0}}
+\headcommand {\slideentry {4}{0}{1}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {9}{12}}
-\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\sectionentry {5}{Coding - Have Fun}{13}{Coding - Have Fun}{0}}
-\headcommand {\slideentry {5}{0}{1}{13/13}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {5}{0}{2}{14/14}{}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@partpages {1}{14}}
-\headcommand {\beamer@subsectionpages {13}{14}}
-\headcommand {\beamer@sectionpages {13}{14}}
-\headcommand {\beamer@documentpages {14}}
-\headcommand {\gdef \inserttotalframenumber {14}}
+\headcommand {\beamer@partpages {1}{13}}
+\headcommand {\beamer@subsectionpages {12}{13}}
+\headcommand {\beamer@sectionpages {12}{13}}
+\headcommand {\beamer@documentpages {13}}
+\headcommand {\gdef \inserttotalframenumber {13}}

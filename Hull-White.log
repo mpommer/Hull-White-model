@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.6)  18 OCT 2021 18:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.6)  24 OCT 2021 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -975,7 +975,7 @@ File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count331
 \l__pdf_internal_box=\box77
 )
-No file Hull-White.aux.
+(./Hull-White.aux)
 \openout1 = `Hull-White.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -999,7 +999,7 @@ LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 16.
 LaTeX Font Info:    Trying to load font information for FML+futm on input line 
 16.
-(c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutm.fd
+ (c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
 LaTeX Font Info:    ... okay on input line 16.
@@ -1100,6 +1100,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
+
+(./Hull-White.out) (./Hull-White.out)
 \@outlinefile=\write5
 \openout5 = `Hull-White.out'.
 
@@ -1191,8 +1193,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 16.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 16.
-
-No file Hull-White.nav.
+ (./Hull-White.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 23.
@@ -1200,30 +1201,26 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-No file Hull-White.toc.
-[2
+(./Hull-White.toc) [2
 
-]
-No file Hull-White.toc.
-[3
+] (./Hull-White.toc) [3
 
 ] [4
 
-]
-No file Hull-White.toc.
-[5
+] (./Hull-White.toc) [5
 
 ]
-<Trinomialbaum hull White step one.jpg, id=69, 600.44325pt x 358.941pt>
+<Trinomialbaum hull White step one.jpg, id=121, 600.44325pt x 358.941pt>
 File: Trinomialbaum hull White step one.jpg Graphic file (type jpg)
 <use Trinomialbaum hull White step one.jpg>
 Package pdftex.def Info: Trinomialbaum hull White step one.jpg  used on input l
 ine 64.
 (pdftex.def)             Requested size: 239.60567pt x 143.23427pt.
- [6
+
+[6
 
  <./Trinomialbaum hull White step one.jpg>]
-<Trinomialbaum hull White step two.png, id=89, 496.85625pt x 287.27325pt>
+<Trinomialbaum hull White step two.png, id=141, 496.85625pt x 287.27325pt>
 File: Trinomialbaum hull White step two.png Graphic file (type png)
 <use Trinomialbaum hull White step two.png>
 Package pdftex.def Info: Trinomialbaum hull White step two.png  used on input l
@@ -1231,62 +1228,55 @@ ine 73.
 (pdftex.def)             Requested size: 239.60567pt x 138.53835pt.
  [7
 
- <./Trinomialbaum hull White step two.png>]
-No file Hull-White.toc.
-[8
-
-]
-No file Hull-White.toc.
-[9
+ <./Trinomialbaum hull White step two.png>] (./Hull-White.toc) [8
 
 ]
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 96.
- (c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+ 95.
+
+(c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 96.
+(Font)              scaled to size 10.07397pt on input line 95.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 96.
+(Font)              scaled to size 7.63599pt on input line 95.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 96.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
+(Font)              scaled to size 5.51999pt on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 96.
+(Font)              scaled to size 10.07397pt on input line 95.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 96.
+(Font)              scaled to size 7.63599pt on input line 95.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 96.
+(Font)              scaled to size 5.51999pt on input line 95.
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 96.
+ut line 95.
 
 (c:/texlive/2020/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[10
+[9
+
+] [10
 
 ] [11
 
-] [12
+] (./Hull-White.toc) [12
 
-]
-No file Hull-White.toc.
-[13
-
-] [14
+] [13
 
 ]
 \tf@nav=\write6
@@ -1299,23 +1289,17 @@ No file Hull-White.toc.
 \openout8 = `Hull-White.snm'.
 
  (./Hull-White.aux)
-
-Package rerunfilecheck Warning: File `Hull-White.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Hull-White.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A562F40A526B139CFF2EF4C22D8DDDA1;1308.
+Package rerunfilecheck Info: File `Hull-White.out' has not changed.
+(rerunfilecheck)             Checksum: C048364D3C781CC21D2B4B7E1F4DE839;1022.
  ) 
 Here is how much of TeX's memory you used:
- 24429 strings out of 479023
- 463803 string characters out of 5863351
- 757714 words of memory out of 5000000
- 41313 multiletter control sequences out of 15000+600000
+ 24575 strings out of 479023
+ 467011 string characters out of 5863351
+ 757858 words of memory out of 5000000
+ 41444 multiletter control sequences out of 15000+600000
  423384 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,15n,132p,454b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,15n,132p,454b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2020/texm
 f-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2020/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
@@ -1329,10 +1313,10 @@ t/fonts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2020/texmf-dist/fonts/ty
 pe1/public/cm-super/sfss0800.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
 /cm-super/sfss1095.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
 sfss1440.pfb>
-Output written on Hull-White.pdf (14 pages, 202529 bytes).
+Output written on Hull-White.pdf (13 pages, 207614 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 239 words of extra memory for PDF output out of 10000 (max. 10000000)
 
