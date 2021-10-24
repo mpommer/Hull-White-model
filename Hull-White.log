@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.6)  24 OCT 2021 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.6)  24 OCT 2021 18:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,11 +820,33 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 (c:/texlive/2020/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
 (c:/texlive/2020/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
 (c:/texlive/2020/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty))
-(c:/texlive/2020/texmf-dist/tex/generic/german/ngerman.sty v2.5e 1998-07-08
-Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
-\grmnU@D=\dimen297
-ngerman -- \language number for naustrian undefined, default 33 used.
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/03 3.55 The Babel package
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/03 3.55 Babel common definitions
+\babel@savecnt=\count331
+\U@D=\dimen297
+\l@babelnohyphens=\language86
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
 )
+LaTeX Info: Redefining \textlatin on input line 717.
+\bbl@dirlevel=\count332
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel-english/UKenglish.ldf
+Language: UKenglish 2017/06/06 v3.3r English support from the babel system
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)))
 (c:/texlive/2020/texmf-dist/tex/latex/fourier/fourier.sty
 Package: fourier 2020/03/03 2.2 fourier-GUTenberg package
 Now handling font encoding FML ...
@@ -972,7 +994,7 @@ LaTeX Font Info:    Redeclaring math accent \mathring on input line 269.
 )
 (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count331
+\l__color_backend_stack_int=\count333
 \l__pdf_internal_box=\box77
 )
 (./Hull-White.aux)
@@ -1056,16 +1078,16 @@ LaTeX Font Info:    ... okay on input line 16.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count332
+\scratchcounter=\count334
 \scratchdimen=\dimen298
 \scratchbox=\box78
-\nofMPsegments=\count333
-\nofMParguments=\count334
+\nofMPsegments=\count335
+\nofMParguments=\count336
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count335
+\MPscratchCnt=\count337
 \MPscratchDim=\dimen299
-\MPnumerator=\count336
-\makeMPintoPDFobject=\count337
+\MPnumerator=\count338
+\makeMPintoPDFobject=\count339
 \everyMPtoPDFconversion=\toks47
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1095,7 +1117,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count338
+\c@section@level=\count340
 )
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
@@ -1293,13 +1315,13 @@ Package rerunfilecheck Info: File `Hull-White.out' has not changed.
 (rerunfilecheck)             Checksum: C048364D3C781CC21D2B4B7E1F4DE839;1022.
  ) 
 Here is how much of TeX's memory you used:
- 24575 strings out of 479023
- 467011 string characters out of 5863351
- 757858 words of memory out of 5000000
- 41444 multiletter control sequences out of 15000+600000
+ 25130 strings out of 479023
+ 475346 string characters out of 5863351
+ 789574 words of memory out of 5000000
+ 41986 multiletter control sequences out of 15000+600000
  423384 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,15n,132p,454b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,15n,132p,454b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2020/texm
 f-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2020/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
@@ -1313,7 +1335,7 @@ t/fonts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2020/texmf-dist/fonts/ty
 pe1/public/cm-super/sfss0800.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
 /cm-super/sfss1095.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
 sfss1440.pfb>
-Output written on Hull-White.pdf (13 pages, 207614 bytes).
+Output written on Hull-White.pdf (13 pages, 207293 bytes).
 PDF statistics:
  277 PDF objects out of 1000 (max. 8388607)
  214 compressed objects within 3 object streams
