@@ -14,7 +14,7 @@
 
 
 \begin{document}
-\title[Hull-White model and calibration]{Hull-White model and Calibration\\
+\title[Hull-White model and calibration]{Hull-White Model and Calibration\\
 Perfect Fit of the Term Structure}  
 
 
@@ -48,6 +48,7 @@ Perfect Fit of the Term Structure}
 \begin{frame}
 \frametitle{Introduction} 
 \begin{itemize}
+\item Hull-White model: $dr_t = [\theta(t)-ar_t]dt + \sigma dW_t$
 \item Since the Hull-White model is inhomogenous we can exactly fit the term structure
 \item In order to achieve the perfect fit we construct a trinomial tree in two consecutive steps
 \end{itemize}
@@ -60,6 +61,7 @@ Perfect Fit of the Term Structure}
 \begin{block}{Options, Futures and other Derivatives by Hull and White}
 \includegraphics[width=0.7\textwidth]{Trinomialbaum hull White step one}
 \end{block}
+Dynamics: $dR^*_t = \sigma dW_t$, assuming $a=0$
 
 \end{frame}
 
@@ -69,6 +71,7 @@ Perfect Fit of the Term Structure}
 \begin{block}{Options, Futures and other Derivatives by Hull}
 \includegraphics[width=0.7\textwidth]{Trinomialbaum hull White step two}
 \end{block}
+Dynamics: $dR_t = \theta(t)dt + \sigma dW_t$, assuming $a=0$
 
 \end{frame}
 
@@ -142,7 +145,7 @@ Q_{m+1,j} &= sum_k Q_{m,k}q(k,j) exp[-(\alpha_m + k \Delta R) \Delta t]
 
 \begin{frame}
 \frametitle{Trinomial tree according to Hull and White step two} 
-We demonstrate how well the term structure is fit and how arbitrary cashflow and options on cashflows can be valued!\\
+We demonstrate how well the term structure is fit and how arbitrary cash flows and options on cash flows can be valued!\\
 
 Have fun:)
 \end{frame}

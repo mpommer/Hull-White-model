@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.6)  24 OCT 2021 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.6)  24 OCT 2021 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1227,72 +1227,73 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 
 ] (./Hull-White.toc) [3
 
-] [4
-
-] (./Hull-White.toc) [5
-
-]
-<Trinomialbaum hull White step one.jpg, id=121, 600.44325pt x 358.941pt>
-File: Trinomialbaum hull White step one.jpg Graphic file (type jpg)
-<use Trinomialbaum hull White step one.jpg>
-Package pdftex.def Info: Trinomialbaum hull White step one.jpg  used on input l
-ine 64.
-(pdftex.def)             Requested size: 239.60567pt x 143.23427pt.
-
-[6
-
- <./Trinomialbaum hull White step one.jpg>]
-<Trinomialbaum hull White step two.png, id=141, 496.85625pt x 287.27325pt>
-File: Trinomialbaum hull White step two.png Graphic file (type png)
-<use Trinomialbaum hull White step two.png>
-Package pdftex.def Info: Trinomialbaum hull White step two.png  used on input l
-ine 73.
-(pdftex.def)             Requested size: 239.60567pt x 138.53835pt.
- [7
-
- <./Trinomialbaum hull White step two.png>] (./Hull-White.toc) [8
-
 ]
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 95.
+ 55.
 
 (c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 95.
+(Font)              scaled to size 10.07397pt on input line 55.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 95.
+(Font)              scaled to size 7.63599pt on input line 55.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 95.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+(Font)              scaled to size 5.51999pt on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 95.
+(Font)              scaled to size 10.07397pt on input line 55.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 95.
+(Font)              scaled to size 7.63599pt on input line 55.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 95.
+(Font)              scaled to size 5.51999pt on input line 55.
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 95.
+ut line 55.
 
 (c:/texlive/2020/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[9
+[4
 
-] [10
+] (./Hull-White.toc) [5
+
+]
+<Trinomialbaum hull White step one.jpg, id=126, 600.44325pt x 358.941pt>
+File: Trinomialbaum hull White step one.jpg Graphic file (type jpg)
+<use Trinomialbaum hull White step one.jpg>
+Package pdftex.def Info: Trinomialbaum hull White step one.jpg  used on input l
+ine 66.
+(pdftex.def)             Requested size: 239.60567pt x 143.23427pt.
+ [6
+
+ <./Trinomialbaum hull White step one.jpg>]
+<Trinomialbaum hull White step two.png, id=146, 496.85625pt x 287.27325pt>
+File: Trinomialbaum hull White step two.png Graphic file (type png)
+<use Trinomialbaum hull White step two.png>
+Package pdftex.def Info: Trinomialbaum hull White step two.png  used on input l
+ine 76.
+(pdftex.def)             Requested size: 239.60567pt x 138.53835pt.
+
+[7
+
+ <./Trinomialbaum hull White step two.png>] (./Hull-White.toc) [8
+
+] [9
+
+]
+[10
 
 ] [11
 
@@ -1335,7 +1336,7 @@ t/fonts/type1/public/cm-super/sfss0600.pfb><c:/texlive/2020/texmf-dist/fonts/ty
 pe1/public/cm-super/sfss0800.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
 /cm-super/sfss1095.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
 sfss1440.pfb>
-Output written on Hull-White.pdf (13 pages, 207293 bytes).
+Output written on Hull-White.pdf (13 pages, 208561 bytes).
 PDF statistics:
  277 PDF objects out of 1000 (max. 8388607)
  214 compressed objects within 3 object streams
