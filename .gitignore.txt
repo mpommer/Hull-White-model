@@ -12,3 +12,6 @@
 *.cb
 *.cb2
 .*.lb
+
+# pdf data
+*.pdf
